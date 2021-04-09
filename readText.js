@@ -23,3 +23,5 @@ fs.readFile(fileText, function (err, data) {
     }
     console.log(data.toString())
 });
+
+//NÃO CONTÉM ERRO 
